@@ -1,16 +1,12 @@
 # vanilla_contacts
 
-A new Flutter project.
+A new Flutter project for state management tutorial.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project aims to play around the state management in Flutter development. 
 
-A few resources to get you started if this is your first Flutter project:
+Source:
+- https://www.youtube.com/watch?v=0PkBIpMW54o&list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO&index=3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5
