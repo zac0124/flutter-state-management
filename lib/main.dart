@@ -22,7 +22,7 @@ class Contact {
 }
 
 class ContactBook {
-  ContactBook._sharedInstance();
+  ContactBook._sharedInstance(); //private constructor
   static final ContactBook _shared = ContactBook._sharedInstance();
   factory ContactBook() => _shared;
 
@@ -110,7 +110,7 @@ class _NewContactViewState extends State<NewContactView> {
               ContactBook().add(contact: contact);
               Navigator.of(context).pop();
             },
-            child: const Text('Add'),
+            child: const Text('Add contact'),
           ),
         ],
       ),
